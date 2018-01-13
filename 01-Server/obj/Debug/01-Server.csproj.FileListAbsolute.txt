@@ -1,0 +1,10 @@
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\bin\Debug\01-Server.exe.config
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\bin\Debug\01-Server.exe
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\bin\Debug\01-Server.pdb
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\obj\Debug\01-Server.exe
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\obj\Debug\01-Server.pdb
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\bin\Debug\JsonModelData.dll
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\bin\Debug\JsonModelData.pdb
+c:\users\pk\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\obj\Debug\01-Server.csprojResolveAssemblyReference.cache
+C:\Users\PK\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PK\documents\visual studio 2015\Projects\TCPClientWithJSON\01-Server\bin\Debug\Newtonsoft.Json.xml

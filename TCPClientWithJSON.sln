@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Client", "01-Client\01-Client.csproj", "{19855E7F-B338-4A59-99AF-8EA7F873220A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Server", "01-Server\01-Server.csproj", "{93AC07B6-00BB-4018-A774-0693EB10C04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonModelData", "JsonModelData\JsonModelData.csproj", "{2B7D6DBD-078A-46DB-BABA-7D496ED31D03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19855E7F-B338-4A59-99AF-8EA7F873220A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19855E7F-B338-4A59-99AF-8EA7F873220A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19855E7F-B338-4A59-99AF-8EA7F873220A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19855E7F-B338-4A59-99AF-8EA7F873220A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AC07B6-00BB-4018-A774-0693EB10C04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AC07B6-00BB-4018-A774-0693EB10C04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AC07B6-00BB-4018-A774-0693EB10C04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AC07B6-00BB-4018-A774-0693EB10C04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B7D6DBD-078A-46DB-BABA-7D496ED31D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7D6DBD-078A-46DB-BABA-7D496ED31D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7D6DBD-078A-46DB-BABA-7D496ED31D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7D6DBD-078A-46DB-BABA-7D496ED31D03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
